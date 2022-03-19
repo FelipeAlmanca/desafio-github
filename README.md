@@ -18,7 +18,7 @@ Aqui estão algumas resoluções minhas para tentar chegar lá:
 
 - Aprender SQL (consultas, join, group by, entre outros). Estou acompanhando essa playlist do canal [Programação Dinâmica](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6) no Youtube;
 - Aprender Python para análise e visualização de dados;
-> Pandas, NumPy e 
+> Pandas, NumPy e Matplotlib.
 - Estudar Linux;
 >   Tenho o WSL instalado no meu PC com windows e ajuda bastante o aprendizado.
 >
