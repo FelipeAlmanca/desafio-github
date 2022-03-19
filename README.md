@@ -1,5 +1,3 @@
-# desafio-github-dio
-
 # Um caminho para Engenharia de Dados!
 
 Olá, tudo bem? Espero que sim!
